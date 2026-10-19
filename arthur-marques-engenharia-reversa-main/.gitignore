@@ -1,7 +1,0 @@
-node_modules/
-**/node_modules/
-*.log
-.env
-.DS_Store
-sistema_comentado/db/oficina_db.sqlite
-__pycache__/
